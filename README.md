@@ -14,7 +14,7 @@
 - 🌱 Currently learning **Advanced MERN, System Design, and LLM Applications**
 - 🚀 Building real-world projects to improve my development skills
 - 🎯 Goal: Become a Software Engineer at a top product-based company
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **abhijeetsinghadhikari999@example.com**
 
 ---
 
