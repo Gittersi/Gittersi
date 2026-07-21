@@ -83,33 +83,7 @@
 | 🧠 Mental Wellness AI | AI chatbot for emotional support | LLM, Python, Streamlit |
 | 💼 Portfolio Website | Responsive personal portfolio | React, Tailwind CSS |
 
----
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gittersi&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Gittersi&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gittersi&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gittersi&theme=algolia&margin-w=10&row=1"/>
-
-</p>
 
 ---
 
@@ -118,16 +92,6 @@
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gittersi&theme=react-dark"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Gittersi/Gittersi/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
